@@ -1,0 +1,16 @@
+SUO.MainActivity, SUO;md5584fa0ba6ff33c28d0ed3a9df9724e11.MainActivity
+SUO.MainActivity, SUO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5584fa0ba6ff33c28d0ed3a9df9724e11.MainActivity
+SUO.MainActivity;md5584fa0ba6ff33c28d0ed3a9df9724e11.MainActivity
+suo.MainActivity;md5584fa0ba6ff33c28d0ed3a9df9724e11.MainActivity
+SUO.GroupsActivity, SUO;md5584fa0ba6ff33c28d0ed3a9df9724e11.GroupsActivity
+SUO.GroupsActivity, SUO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5584fa0ba6ff33c28d0ed3a9df9724e11.GroupsActivity
+SUO.GroupsActivity;md5584fa0ba6ff33c28d0ed3a9df9724e11.GroupsActivity
+suo.GroupsActivity;md5584fa0ba6ff33c28d0ed3a9df9724e11.GroupsActivity
+SUO.AnswerActivity, SUO;md5584fa0ba6ff33c28d0ed3a9df9724e11.AnswerActivity
+SUO.AnswerActivity, SUO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5584fa0ba6ff33c28d0ed3a9df9724e11.AnswerActivity
+SUO.AnswerActivity;md5584fa0ba6ff33c28d0ed3a9df9724e11.AnswerActivity
+suo.AnswerActivity;md5584fa0ba6ff33c28d0ed3a9df9724e11.AnswerActivity
+SUO.StartActivity, SUO;md5584fa0ba6ff33c28d0ed3a9df9724e11.StartActivity
+SUO.StartActivity, SUO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5584fa0ba6ff33c28d0ed3a9df9724e11.StartActivity
+SUO.StartActivity;md5584fa0ba6ff33c28d0ed3a9df9724e11.StartActivity
+suo.StartActivity;md5584fa0ba6ff33c28d0ed3a9df9724e11.StartActivity

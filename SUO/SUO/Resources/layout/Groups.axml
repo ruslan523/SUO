@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1">
+    <TextView
+        p1:text="00:"
+        p1:layout_width="130dp"
+        p1:layout_height="50dp"
+        p1:id="@+id/textView1"
+        p1:layout_marginLeft="20dp"
+        p1:gravity="center_vertical" />
+    <TextView
+        p1:text="00:"
+        p1:layout_width="130dp"
+        p1:layout_height="50dp"
+        p1:layout_below="@id/textView1"
+        p1:id="@+id/textView2"
+        p1:layout_marginLeft="20dp"
+        p1:gravity="center_vertical" />
+    <TextView
+        p1:text="00:"
+        p1:layout_width="130dp"
+        p1:layout_height="50dp"
+        p1:layout_below="@id/textView2"
+        p1:id="@+id/textView3"
+        p1:layout_marginLeft="20dp"
+        p1:gravity="center_vertical" />
+    <EditText
+        p1:layout_width="200dp"
+        p1:layout_height="50dp"
+        p1:layout_toRightOf="@id/textView1"
+        p1:id="@+id/editText1" />
+    <EditText
+        p1:layout_width="200dp"
+        p1:layout_height="50dp"
+        p1:layout_toRightOf="@id/textView2"
+        p1:id="@+id/editText2"
+        p1:layout_marginTop="50dp" />
+    <EditText
+        p1:layout_width="200dp"
+        p1:layout_height="50dp"
+        p1:layout_toRightOf="@id/textView3"
+        p1:id="@+id/editText3"
+        p1:layout_marginTop="100dp" />
+    <Button
+        p1:text="Расчитать"
+        p1:layout_width="150dp"
+        p1:layout_height="wrap_content"
+        p1:layout_below="@id/editText3"
+        p1:id="@+id/button1"
+        p1:layout_marginLeft="200dp"
+        p1:layout_marginTop="250dp" />
+</RelativeLayout>

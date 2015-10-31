@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="SUO\SUO.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.emulator_1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SUO\MainActivity.cs">
+    <Files>
+      <File FileName="SUO\MainActivity.cs" Line="175" Column="13" />
+      <File FileName="SUO\GroupsActivity.cs" Line="48" Column="26" />
+      <File FileName="SUO\AnswerActivity.cs" Line="20" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SUO AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
